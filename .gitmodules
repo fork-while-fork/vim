@@ -1,0 +1,42 @@
+[submodule "/home/milleraj/devel/dotfiles/vim/vim/bundle/tabular"]
+	path = /home/milleraj/devel/dotfiles/vim/vim/bundle/tabular
+	url = git://github.com/godlygeek/tabular.git
+[submodule "/home/milleraj/devel/dotfiles/vim/vim/bundle/vividchalk"]
+	path = /home/milleraj/devel/dotfiles/vim/vim/bundle/vividchalk
+	url = git://github.com/tpope/vim-vividchalk.git
+[submodule "/home/milleraj/devel/dotfiles/vim/vim/bundle/git"]
+	path = /home/milleraj/devel/dotfiles/vim/vim/bundle/git
+	url = git://github.com/tpope/vim-git.git
+[submodule "/home/milleraj/devel/dotfiles/vim/vim/bundle/supertab"]
+	path = /home/milleraj/devel/dotfiles/vim/vim/bundle/supertab
+	url = git://github.com/ervandew/supertab.git
+[submodule "/home/milleraj/devel/dotfiles/vim/vim/bundle/snipmate"]
+	path = /home/milleraj/devel/dotfiles/vim/vim/bundle/snipmate
+	url = git://github.com/msanders/snipmate.vim.git
+[submodule "/home/milleraj/devel/dotfiles/vim/vim/bundle/ack"]
+	path = /home/milleraj/devel/dotfiles/vim/vim/bundle/ack
+	url = https://github.com/mileszs/ack.vim
+[submodule "/home/milleraj/devel/dotfiles/vim/vim/bundle/fugitive"]
+	path = /home/milleraj/devel/dotfiles/vim/vim/bundle/fugitive
+	url = git://github.com/tpope/vim-fugitive.git
+[submodule "/home/milleraj/devel/dotfiles/vim/vim/bundle/nerdtree"]
+	path = /home/milleraj/devel/dotfiles/vim/vim/bundle/nerdtree
+	url = git://github.com/scrooloose/nerdtree.git
+[submodule "/home/milleraj/devel/dotfiles/vim/bundle/IndexedSearch"]
+	path = /home/milleraj/devel/dotfiles/vim/bundle/IndexedSearch
+	url = git://github.com/vim-scripts/IndexedSearch.git
+[submodule "/home/milleraj/devel/dotfiles/vim/bundle/surround"]
+	path = /home/milleraj/devel/dotfiles/vim/bundle/surround
+	url = git://github.com/tpope/vim-surround.git
+[submodule "/home/milleraj/devel/dotfiles/vim/bundle/tabular"]
+	path = /home/milleraj/devel/dotfiles/vim/bundle/tabular
+	url = git://github.com/godlygeek/tabular.git
+[submodule "/home/milleraj/devel/dotfiles/vim/bundle/git"]
+	path = /home/milleraj/devel/dotfiles/vim/bundle/git
+	url = git://github.com/tpope/vim-git.git
+[submodule "/home/milleraj/devel/dotfiles/vim/bundle/supertab"]
+	path = /home/milleraj/devel/dotfiles/vim/bundle/supertab
+	url = git://github.com/ervandew/supertab.git
+[submodule "/home/milleraj/devel/dotfiles/vim/bundle/fugitive"]
+	path = /home/milleraj/devel/dotfiles/vim/bundle/fugitive
+	url = git://github.com/tpope/vim-fugitive.git
